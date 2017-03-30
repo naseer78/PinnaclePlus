@@ -1,0 +1,15 @@
+D:\office work\Onfeel\PinnaclePlus\PinnacleSecurity\bin\Release\PinnacleSecurity.dll
+D:\office work\Onfeel\PinnaclePlus\PinnacleSecurity\bin\Release\PinnacleSecurity.pdb
+D:\office work\Onfeel\PinnaclePlus\PinnacleSecurity\obj\Release\PinnacleFunctions.csprojResolveAssemblyReference.cache
+D:\office work\Onfeel\PinnaclePlus\PinnacleSecurity\obj\Release\PinnacleSecurity.dll
+D:\office work\Onfeel\PinnaclePlus\PinnacleSecurity\obj\Release\PinnacleSecurity.pdb
+D:\Dropbox\metro\PPlus\PinnaclePlus\PinnacleSecurity\bin\Release\PinnacleSecurity.dll
+D:\Dropbox\metro\PPlus\PinnaclePlus\PinnacleSecurity\bin\Release\PinnacleSecurity.pdb
+D:\Dropbox\metro\PPlus\PinnaclePlus\PinnacleSecurity\obj\Release\PinnacleFunctions.csprojResolveAssemblyReference.cache
+D:\Dropbox\metro\PPlus\PinnaclePlus\PinnacleSecurity\obj\Release\PinnacleSecurity.dll
+D:\Dropbox\metro\PPlus\PinnaclePlus\PinnacleSecurity\obj\Release\PinnacleSecurity.pdb
+D:\GDrive\metro\PPlus\PinnaclePlus\PinnacleSecurity\bin\Release\PinnacleSecurity.dll
+D:\GDrive\metro\PPlus\PinnaclePlus\PinnacleSecurity\bin\Release\PinnacleSecurity.pdb
+D:\GDrive\metro\PPlus\PinnaclePlus\PinnacleSecurity\obj\Release\PinnacleFunctions.csprojResolveAssemblyReference.cache
+D:\GDrive\metro\PPlus\PinnaclePlus\PinnacleSecurity\obj\Release\PinnacleSecurity.dll
+D:\GDrive\metro\PPlus\PinnaclePlus\PinnacleSecurity\obj\Release\PinnacleSecurity.pdb

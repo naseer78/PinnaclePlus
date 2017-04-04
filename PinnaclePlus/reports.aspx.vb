@@ -79,6 +79,8 @@ Public Class reports
     Private Function SetOrders(StrOrder As String, Seperation_Logic_Is_Text As Boolean) As String
         StrOrder = StrOrder.Replace("'", "")
         StrOrder = StrOrder.Replace(",", Chr(13))
+        'StrOrder = StrOrder.Replace(",", vbTab)
+        StrOrder = StrOrder.Replace(",", Chr(10))
         StrOrder = StrOrder.Replace(" ", Chr(13))
         StrOrder = StrOrder.Replace(Chr(10), Chr(13))
         Dim StrRet As String = ""
@@ -113,6 +115,7 @@ Public Class reports
     Private Function SetTrack(StrOrder As String, Seperation_Logic_Is_Text As Boolean) As String
         StrOrder = StrOrder.Replace("'", "")
         StrOrder = StrOrder.Replace(",", Chr(13))
+        'asdsdl askdj asdklj sdkljasd lkjasdlk jdsfo fiosdjfisdjf dksjfdflkjsdf dlskj
         StrOrder = StrOrder.Replace(" ", Chr(13))
         StrOrder = StrOrder.Replace(Chr(10), Chr(13))
         Dim StrRet As String = ""
